@@ -141,10 +141,10 @@ if [[ -f "$DISTRIBUTION_DIR/ReleaseNotes.md" ]]; then
 fi
 
 "$GENERATE_APPCAST" \
-    --download-url-prefix "https://github.com/MinimackStudios/TimeVault/releases/download/v$VERSION/" \
+    --download-url-prefix "https://github.com/BeefCityProjects/TimeVault/releases/download/v$VERSION/" \
     --embed-release-notes \
-    --link "https://github.com/MinimackStudios/TimeVault" \
-    --full-release-notes-url "https://github.com/MinimackStudios/TimeVault/releases" \
+    --link "https://github.com/BeefCityProjects/TimeVault" \
+    --full-release-notes-url "https://github.com/BeefCityProjects/TimeVault/releases" \
     -o "$APPCAST_DIR/appcast.xml" \
     "$APPCAST_DIR"
 
