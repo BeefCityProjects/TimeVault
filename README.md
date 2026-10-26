@@ -17,8 +17,8 @@ The app does not modify, delete, restore, or write to backup content.
 ## Build
 
 Open `TimeVault.xcodeproj` in Xcode and run the `TimeVault`
-scheme. The project is configured to use the included `Time Machine
-Analyzer.icon` asset and targets macOS 13.
+scheme. The project is configured to use the included
+`Resources/TimeVault.icon` asset and targets macOS 13.
 
 For a command-line build:
 
