@@ -54,5 +54,5 @@ self-signed identity is not trusted for notarization or general distribution.
 The appcast URL used by TimeVault is:
 
 ```text
-https://raw.githubusercontent.com/MinimackStudios/TimeVault/main/appcast.xml
+https://raw.githubusercontent.com/BeefCityProjects/TimeVault/main/appcast.xml
 ```
