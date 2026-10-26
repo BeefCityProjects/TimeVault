@@ -1,2 +1,6 @@
 .DS_Store
 /dist/
+TimeVault.xcodeproj/project.xcworkspace/xcuserdata/mckayevans.xcuserdatad/UserInterfaceState.xcuserstate
+AGENTS.md
+agent_docs
+.codex_workflow_hidden_resources/
